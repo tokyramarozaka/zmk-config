@@ -57,7 +57,7 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp  TAB  &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7  &kp F8 &kp F9 &kp F10 &kp BSPC
-   &kp LCTRL &kp F11 &kp F12 &kp C_MUTE   &kp KC_VOL_DN   &kp C_VOL_UP      &kp HOME &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp END
+   &kp LCTRL &kp F11 &kp F12 &kp C_MUTE   &kp C_VOL_DN   &kp C_VOL_UP      &kp HOME &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp END
    &kp LSHFT &trans   &trans &trans   &trans   &trans      &kp UNDER &kp DEL  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
                              &trans &trans   &trans   &trans   &trans    &trans
                         >;
